@@ -4,8 +4,9 @@ composer.lock
 .tmp*
 _tmp*/
 
-*.tar.gz
 *.tar
+*.bz2
+*.gz
 
 script/autorun/*
 !script/autorun/.gitEmptyDir
